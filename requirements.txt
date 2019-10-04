@@ -1,1 +1,3 @@
 strong_json
+numpy
+pandas
